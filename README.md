@@ -8,7 +8,7 @@ Hey there! I’m Felipe "404xploit" — a passionate cybersecurity researcher an
 
 Web & Mobile Penetration Testing
 
-Exploitation Techniques: SSRF, IDOR, ATO, OAuth Misconfigurations, Prototype Pollution, GraphQL Abuse, HTML Injection, and more
+Exploitation Techniques: SSRF, IDOR, ATO, OAuth Misconfigurations, Prototype Pollution,HTML Injection, and more
 
 Security Automation & Data-Driven Vulnerability Analysis
 
