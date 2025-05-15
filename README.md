@@ -1,6 +1,6 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00abf0&height=70&section=header"/>
 
-🚀 Welcome to My GitHub! 🔒🐍
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F7F7F7&background=FFFFFF00&width=435&lines=Welcome+to+my+github" alt="Typing SVG" /></a>
 
 Hey there! I’m **Felipe "404xploit" Gonçalves Costa**, a passionate **cybersecurity researcher** and **bug bounty hunter**. My goal is to identify vulnerabilities and strengthen digital security using advanced **pentesting** techniques and programming skills.  
 
