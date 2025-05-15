@@ -7,7 +7,7 @@ Hey there! I’m **Felipe "404xploit" Gonçalves Costa**, a passionate **cyberse
 💻 **Skills:**  
 - Penetration Testing (Web & Mobile)  
 - Vulnerability Exploitation (XSS, SQLi, RCE, IDOR...)  
-- Programming in **Python, C#, C++, and MySQL**  
+- [![My Skills](https://skillicons.dev/icons?i=js,html,css,js,py,mysql)](https://skillicons.dev) 
 - Security Automation & Data Analysis  
 
 📜 **Certifications:**  
