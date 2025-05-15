@@ -8,15 +8,17 @@ Hey there! I’m **Felipe "404xploit" Gonçalves Costa**, a passionate **cyberse
 - Penetration Testing (Web & Mobile)  
 - Vulnerability Exploitation (XSS, SQLi, RCE, IDOR...)  
 - Security Automation & Data Analysis 
-📜 **Certifications:**  
+-📜 **Certifications:**  
 Certified by **Harvard, Google, Cisco, and EC-Council**, constantly improving my expertise in **offensive security**.  
+
 🎯 **Projects & Research:**  
 Here, you'll find repositories focused on **offensive security, automation, and continuous learning** in **cybersecurity**. Let’s hack and learn together! 🚀
 
-- [![My Skills](https://skillicons.dev/icons?i=js,html,css,js,py,mysql,ts,linux,github,)](https://skillicons.dev) 
+
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,js,py,mysql,ts,linux,github,)](https://skillicons.dev) 
  
 
-  
+
 
 
 <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=404xploit&theme=dark&hide_border=true&border_radius=1&short_numbers=true" alt="GitHub Streak" /></a>
