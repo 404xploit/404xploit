@@ -5,6 +5,7 @@
 **Hey there!** I’m Felipe "404xploit" — a passionate cybersecurity researcher and bug bounty hunter dedicated to discovering vulnerabilities and strengthening digital defenses through advanced penetration testing and programming expertise.
 
 💻 Core Skills
+
 **Web & Mobile Penetration Testing**
 
 **Exploitation Techniques**: SSRF, IDOR, ATO, OAuth Misconfigurations, Prototype Pollution, HTML Injection, and more
@@ -12,6 +13,7 @@
 Security Automation & Data-Driven Vulnerability Analysis
 
 **📜 Certifications**
+
 **Certified by Harvard, Google, Cisco, and EC-Council**, I continuously sharpen my skills in offensive security and ethical hacking.
 
 🎯 Projects & Research
