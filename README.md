@@ -15,7 +15,7 @@ Certified by **Harvard, Google, Cisco, and EC-Council**, constantly improving my
 Here, you'll find repositories focused on **offensive security, automation, and continuous learning** in **cybersecurity**. Let’s hack and learn together! 🚀
 
 
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,py,mysql,ts,linux,github,)](https://skillicons.dev) 
+[![My Skills](https://skillicons.dev/icons?i=bash,js,py,mysql,ts,linux,github)](https://skillicons.dev) 
  
 
 
