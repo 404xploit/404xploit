@@ -8,6 +8,7 @@ Hey there! I’m **Felipe "404xploit" Gonçalves Costa**, a passionate **cyberse
 - Penetration Testing (Web & Mobile)  
 - Vulnerability Exploitation (XSS, SQLi, RCE, IDOR...)  
 - Security Automation & Data Analysis 
+
 -📜 **Certifications:**  
 Certified by **Harvard, Google, Cisco, and EC-Council**, constantly improving my expertise in **offensive security**.  
 
