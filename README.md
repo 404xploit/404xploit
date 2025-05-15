@@ -13,8 +13,7 @@
 Security Automation & Data-Driven Vulnerability Analysis
 
 **📜 Certifications**
-
-**Certified by Harvard, Google, Cisco, and EC-Council**, I continuously sharpen my skills in offensive security and ethical hacking.
+- **Certified by Harvard, Google, Cisco, and EC-Council**, I continuously sharpen my skills in offensive security and ethical hacking.
 
 🎯 Projects & Research
 Explore my repositories to dive into:
