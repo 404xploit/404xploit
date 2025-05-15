@@ -15,3 +15,6 @@ Certified by **Harvard, Google, Cisco, and EC-Council**, constantly improving my
 
 🎯 **Projects & Research:**  
 Here, you'll find repositories focused on **offensive security, automation, and continuous learning** in **cybersecurity**. Let’s hack and learn together! 🚀  
+
+
+<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=404xploit&theme=dark&hide_border=true&border_radius=1&short_numbers=true" alt="GitHub Streak" /></a>
