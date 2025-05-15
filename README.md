@@ -6,7 +6,7 @@ Hey there! I’m **Felipe "404xploit" Gonçalves Costa**, a passionate **cyberse
 
 💻 **Skills:**  
 - Penetration Testing (Web & Mobile)  
-- Vulnerability Exploitation (XSS, SQLi, RCE, IDOR...)  
+- Vulnerability Exploitation: SSRF, IDOR, ATO, OAuth Misconfig, Prototype Pollution, GraphQL Abuse, HTML Injection... 
 - Security Automation & Data Analysis 
 
 - 📜 **Certifications:**  
