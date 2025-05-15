@@ -2,7 +2,7 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&pause=1000&color=F7F7F7&background=FFFFFF00&width=435&lines=%F0%9F%9A%80+Welcome+to+My+GitHub!+%F0%9F%94%92)](https://git.io/typing-svg)
 
-Hey there! I’m **Felipe "404xploit" Gonçalves Costa**, a passionate **cybersecurity researcher** and **bug bounty hunter**. My goal is to identify vulnerabilities and strengthen digital security using advanced **pentesting** techniques and programming skills.  
+Hey there! I’m **Felipe "404xploit"**, a passionate **cybersecurity researcher** and **bug bounty hunter**. My goal is to identify vulnerabilities and strengthen digital security using advanced **pentesting** techniques and programming skills.  
 
 💻 **Skills:**  
 - Penetration Testing (Web & Mobile)  
