@@ -10,7 +10,7 @@
 
 **Exploitation Techniques**: SSRF, IDOR, ATO, OAuth Misconfigurations, Prototype Pollution, HTML Injection, and more
 
-Security Automation & Data-Driven Vulnerability Analysis
+- Security Automation & Data-Driven Vulnerability Analysis
 
 **📜 Certifications**
 - **Certified by Harvard, Google, Cisco, and EC-Council**, I continuously sharpen my skills in offensive security and ethical hacking.
@@ -18,11 +18,11 @@ Security Automation & Data-Driven Vulnerability Analysis
 🎯 Projects & Research
 Explore my repositories to dive into:
 
-Offensive security tools
+- Offensive security tools
 
-Automation scripts
+- Automation scripts
 
-Ongoing research projects focused on practical, real-world cybersecurity challenges
+- Ongoing research projects focused on practical, real-world cybersecurity challenges
 
 Let’s hack, learn, and push boundaries together. 🚀
 
