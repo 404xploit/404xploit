@@ -2,19 +2,23 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&pause=1000&color=F7F7F7&background=FFFFFF00&width=435&lines=%F0%9F%9A%80+Welcome+to+My+GitHub!+%F0%9F%94%92)](https://git.io/typing-svg)
 
-Hey there! I’m **Felipe "404xploit"**, a passionate **cybersecurity researcher** and **bug bounty hunter**. My goal is to identify vulnerabilities and strengthen digital security using advanced **pentesting** techniques and programming skills.  
+Hey there! I’m Felipe "404xploit" — a passionate cybersecurity researcher and bug bounty hunter dedicated to discovering vulnerabilities and strengthening digital defenses through advanced penetration testing and programming expertise.
 
-💻 **Skills:**  
-- Penetration Testing (Web & Mobile)  
-- Vulnerability Exploitation: SSRF, IDOR, ATO, OAuth Misconfig, Prototype Pollution, GraphQL Abuse, HTML Injection... 
-- Security Automation & Data Analysis 
+💻 Core Skills:
 
-- 📜 **Certifications:**  
-Certified by **Harvard, Google, Cisco, and EC-Council**, constantly improving my expertise in **offensive security**.  
+Web & Mobile Penetration Testing
 
-🎯 **Projects & Research:**  
-Here, you'll find repositories focused on **offensive security, automation, and continuous learning** in **cybersecurity**. Let’s hack and learn together! 🚀
+Exploitation Techniques: SSRF, IDOR, ATO, OAuth Misconfigurations, Prototype Pollution, GraphQL Abuse, HTML Injection, and more
 
+Security Automation & Data-Driven Vulnerability Analysis
+
+📜 Certifications:
+Certified by Harvard, Google, Cisco, and EC-Council, I continuously sharpen my skills in offensive security and ethical hacking.
+
+🎯 Projects & Research:
+Explore my repositories to dive into offensive security tools, automation scripts, and ongoing research projects focused on practical, real-world cybersecurity challenges.
+
+Let’s hack, learn, and push boundaries together. 🚀
 
 [![My Skills](https://skillicons.dev/icons?i=bash,js,py,mysql,ts,linux,github)](https://skillicons.dev) 
  
