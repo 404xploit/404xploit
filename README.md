@@ -33,6 +33,3 @@ Let’s hack, learn, and push boundaries together. 🚀
 <p align="center" style="width: 100%;">
   <img align="center" style="width: 100%;" src="https://raw.githubusercontent.com/404xploit/404xploit/output/github-contribution-grid-snake-dark.svg" alt="404xploit" />
 </p>
-
-  <img align="center" style="width: 100%;" src="https://raw.githubusercontent.com/404xploit/404xploit/output/github-contribution-grid-snake-dark.svg" alt="404xploit" />
-</p>
