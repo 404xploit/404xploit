@@ -29,5 +29,5 @@ Let’s hack, learn, and push boundaries together. 🚀
 [![My Skills](https://skillicons.dev/icons?i=bash,js,py,mysql,ts,linux,github)](https://skillicons.dev) 
 
  ---
-
-<img width=100% src="https://streak-stats.demolab.com?user=404xploit&theme=github-dark-blue&hide_border=true&short_numbers=true" />
+ 
+<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=404xploit&theme=github-dark-blue&short_numbers=true" alt="GitHub Streak" /></a>
