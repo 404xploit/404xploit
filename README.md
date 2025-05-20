@@ -27,9 +27,7 @@ Explore my repositories to dive into:
 Let’s hack, learn, and push boundaries together. 🚀
 
 [![My Skills](https://skillicons.dev/icons?i=bash,js,py,mysql,ts,linux,github)](https://skillicons.dev) 
- 
 
+ ---
 
-
-
-<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=404xploit&theme=dark&hide_border=true&border_radius=1&short_numbers=true" alt="GitHub Streak" /></a>
+<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=404xploit&theme=github-dark-blue&hide_border=true&short_numbers=true" alt="GitHub Streak" /></a>
