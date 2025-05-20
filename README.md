@@ -30,6 +30,7 @@ Let’s hack, learn, and push boundaries together. 🚀
 
  ---
 
-<p align="center" style="width: 100%;">
-    <img align="center" style="width: 100%;" src="https://raw.githubusercontent.com/2u841r/2u841r/output/github-contribution-grid-snake-dark.svg" alt="Zubair" />
-</p>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/404xploit/404xploit/blob/output/github-contribution-grid-snake-dark.svg" />
+  <img alt="Snake animation" src="https://github.com/404xploit/404xploit/blob/output/github-contribution-grid-snake.svg" />
+</picture>
