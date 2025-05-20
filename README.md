@@ -29,5 +29,7 @@ Let’s hack, learn, and push boundaries together. 🚀
 [![My Skills](https://skillicons.dev/icons?i=bash,js,py,mysql,ts,linux,github)](https://skillicons.dev) 
 
  ---
- 
-<a href=img src="https://streak-stats.demolab.com?user=404xploit&theme=blood-dark&short_numbers=true" alt="GitHub Streak" /></a>
+
+<p align="center" style="width: 100%;">
+    <img align="center" style="width: 100%;" src="https://raw.githubusercontent.com/2u841r/2u841r/output/github-contribution-grid-snake-dark.svg" alt="Zubair" />
+</p>
