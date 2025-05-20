@@ -30,4 +30,4 @@ Let’s hack, learn, and push boundaries together. 🚀
 
  ---
  
-[![GitHub Streak](https://streak-stats.demolab.com?user=404xploit&theme=github-dark-blue&short_numbers=true)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=404xploit&theme=github-dark-blue&short_numbers=true)
