@@ -29,15 +29,10 @@ Let’s hack, learn, and push boundaries together. 🚀
 [![My Skills](https://skillicons.dev/icons?i=bash,js,py,mysql,ts,linux,github)](https://skillicons.dev) 
 
  ---
-
+ 
 <div align="center">
-  
- <div align="center">
 
   ![snake gif](https://raw.githubusercontent.com/404xploit/404xploit/output/github-snake-dark.svg?color_snake=00abf0&color_dots=DEDEDE)
-
-</div>
-
 
 </div>
 
