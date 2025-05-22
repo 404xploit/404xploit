@@ -32,8 +32,4 @@ Let’s hack, learn, and push boundaries together. 🚀
 
 <div align="center">
 
-  ![snake gif](https://raw.githubusercontent.com/404xploit/404xploit/output/github-snake-dark.svg?color_snake=00abf0&color_dots=DEDEDE)
-
-</div>
-
-
+  ![snake gif](https://raw.githubusercontent.com/404xploit/404xploit/output/github-snake-dark.svg?color_snake=00abf0&color_dots=d)
