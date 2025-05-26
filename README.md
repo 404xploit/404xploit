@@ -30,4 +30,4 @@ Let’s hack, learn, and push boundaries together. 🚀
 
  ---
 
-![snake gif](https://github.com/404xploit/snk/raw/output/dist/github-contribution-grid-snake.svg)
+![snake gif](https://raw.githubusercontent.com/404xploit/404xploit/1455bd83b218bd08a50ab4f7e980b958756db31c/github-snake-dark.svg)
