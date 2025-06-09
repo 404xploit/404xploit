@@ -63,6 +63,7 @@ Driven by curiosity and precision, I help platforms improve resilience through r
 I’m always open to new challenges, collaborations, or conversations around cybersecurity. 🤝
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin&style=for-the-badge)](https://www.linkedin.com/in/felipe-gon%C3%A7alves-costa-b26b72346/)  
-[![Email](https://img.shields.io/badge/Email-Contact-D14836?logo=gmail&style=for-the-badge)](mailto:gcostafelipe1@gmail.com)
+[![Email](https://img.shields.io/badge/Email-Contact-D14836?logo=gmail&style=for-the-badge)](mailto:gcostafelipe1@gmail.com)  
+[![TryHackMe](https://img.shields.io/badge/TryHackMe-profile-212C42?logo=tryhackme&logoColor=white&style=for-the-badge)](https://tryhackme.com/p/404xploit)
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=00abf0&height=70&section=footer"/>
