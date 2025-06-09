@@ -12,24 +12,6 @@
 
 - Security Automation & Data-Driven Vulnerability Analysis
 
-## 🏆 Certifications
-
-### 🔒 Cybersecurity
-- [**Google Cybersecurity Professional**](https://www.coursera.org/account/accomplishments/professional-cert/MA0GY3M8IYM6)  
-  ![Google](https://img.shields.io/badge/Google-Cybersecurity_Professional-%234285F4?logo=google)
-- [**ISC² Certified in Cybersecurity (CC)**](https://www.credly.com/badges/...)  
-  ![ISC2](https://img.shields.io/badge/ISC²-CC-%23FF6600?logo=isc2)
-- **EC-Council Android Bug Bounty Hunting**  
-  ![EC-Council](https://img.shields.io/badge/EC--Council-Android_Bug_Bounty-%230052
-
-🎯 Projects & Research
-Explore my repositories to dive into:
-
-- Offensive security tools
-
-- Automation scripts
-
-- Ongoing research projects focused on practical, real-world cybersecurity challenges
 
 Let’s hack, learn, and push boundaries together. 🚀
 
