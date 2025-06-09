@@ -24,25 +24,25 @@ Driven by curiosity and precision, I help platforms improve resilience through r
 
 | Certification | Issuing Organization |
 |---------------|----------------------|
-| ![IBSEC](https://img.shields.io/badge/IBSEC-SOC_Analyst-blue?logo=security&style=flat) | IBSEC |
-| ![EC-Council](https://img.shields.io/badge/EC--Council-Android_Bug_Bounty_Hunting-red?logo=android&style=flat) | EC-Council |
 | ![Harvard](https://img.shields.io/badge/Harvard-CS50's_Intro_to_Cybersecurity-maroon?logo=harvard-university&style=flat) | Harvard University |
-| ![Cisco](https://img.shields.io/badge/Cisco-Ethical_Hacker-blue?logo=cisco&style=flat) | Cisco |
 | ![Google](https://img.shields.io/badge/Google-Cybersecurity_Professional_Certificate-yellow?logo=google&style=flat) | Google |
+| ![EC-Council](https://img.shields.io/badge/EC--Council-Android_Bug_Bounty_Hunting-red?logo=android&style=flat) | EC-Council |
+| ![IBSEC](https://img.shields.io/badge/IBSEC-SOC_Analyst-blue?logo=security&style=flat) | IBSEC |
+| ![Cisco](https://img.shields.io/badge/Cisco-Ethical_Hacker-blue?logo=cisco&style=flat) | Cisco |
 | ![Hackers Hive](https://img.shields.io/badge/Hackers_Hive-Metasploit_Expert-purple?logo=metasploit&style=flat) | Hackers Hive |
 | ![Senac](https://img.shields.io/badge/Senac-Endpoint_Security-orange?logo=shield&style=flat) | Senac |
-| ![Udemy](https://img.shields.io/badge/Udemy-Invasion_Techniques_with_Kali_Linux-purple?logo=kalilinux&style=flat) | Udemy |
 | ![Senac](https://img.shields.io/badge/Senac-Network_Defense-orange?logo=networkx&style=flat) | Senac |
 | ![OPSWAT](https://img.shields.io/badge/OPSWAT-Infrastructure_Protection-blue?logo=opswat&style=flat) | OPSWAT |
-| ![Google](https://img.shields.io/badge/Google-Data_Analytics_Professional_Certificate-yellow?logo=googleanalytics&style=flat) | Google |
-| ![ULSA](https://img.shields.io/badge/ULSA-Data_Analysis_with_R-blue?logo=r&style=flat) | ULSA |
-| ![Cisco](https://img.shields.io/badge/Cisco-Python_Essentials_1-blue?logo=python&style=flat) | Cisco |
-| ![ULSA](https://img.shields.io/badge/ULSA-Clean_Data-green?logo=databricks&style=flat) | ULSA |
-| ![ULSA](https://img.shields.io/badge/ULSA-Google_Analytics_Capstone-blueviolet?style=flat) | ULSA |
-| ![ULSA](https://img.shields.io/badge/ULSA-Networking_and_Security-red?logo=networkx&style=flat) | ULSA |
+| ![Udemy](https://img.shields.io/badge/Udemy-Invasion_Techniques_with_Kali_Linux-purple?logo=kalilinux&style=flat) | Udemy |
 | ![HKUST](https://img.shields.io/badge/HKUST-IS_Auditing_&_Controls-darkgreen?logo=microsoft&style=flat) | HKUST |
-| ![Cisco](https://img.shields.io/badge/Cisco-English_for_IT-blue?logo=english&style=flat) | Cisco |
+| ![Google](https://img.shields.io/badge/Google-Data_Analytics_Professional_Certificate-yellow?logo=googleanalytics&style=flat) | Google |
+| ![ULSA](https://img.shields.io/badge/ULSA-Networking_and_Security-red?logo=networkx&style=flat) | ULSA |
+| ![ULSA](https://img.shields.io/badge/ULSA-Data_Analysis_with_R-blue?logo=r&style=flat) | ULSA |
+| ![ULSA](https://img.shields.io/badge/ULSA-Google_Analytics_Capstone-blueviolet?style=flat) | ULSA |
+| ![ULSA](https://img.shields.io/badge/ULSA-Clean_Data-green?logo=databricks&style=flat) | ULSA |
 | ![ULSA](https://img.shields.io/badge/ULSA-Data_Visualization-orange?style=flat) | ULSA |
+| ![Cisco](https://img.shields.io/badge/Cisco-Python_Essentials_1-blue?logo=python&style=flat) | Cisco |
+| ![Cisco](https://img.shields.io/badge/Cisco-English_for_IT-blue?logo=english&style=flat) | Cisco |
 | ![EC-Council](https://img.shields.io/badge/EC--Council-JavaScript_Strings-yellow?logo=javascript&style=flat) | EC-Council |
 
 ---
