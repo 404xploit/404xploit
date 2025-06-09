@@ -12,8 +12,15 @@
 
 - Security Automation & Data-Driven Vulnerability Analysis
 
-**📜 Certifications**
-- **Certified by Harvard, Google, Cisco, and EC-Council**, I continuously sharpen my skills in offensive security and ethical hacking.
+## 🏆 Certifications
+
+### 🔒 Cybersecurity
+- [**Google Cybersecurity Professional**](https://www.coursera.org/account/accomplishments/professional-cert/MA0GY3M8IYM6)  
+  ![Google](https://img.shields.io/badge/Google-Cybersecurity_Professional-%234285F4?logo=google)
+- [**ISC² Certified in Cybersecurity (CC)**](https://www.credly.com/badges/...)  
+  ![ISC2](https://img.shields.io/badge/ISC²-CC-%23FF6600?logo=isc2)
+- **EC-Council Android Bug Bounty Hunting**  
+  ![EC-Council](https://img.shields.io/badge/EC--Council-Android_Bug_Bounty-%230052
 
 🎯 Projects & Research
 Explore my repositories to dive into:
