@@ -48,7 +48,7 @@ Driven by curiosity and precision, I help platforms improve resilience through r
 ---
 
 
-## 🧰 Tech Stack & Tools
+## 🎓 Skills & Technologies
 
 [![My Skills](https://skillicons.dev/icons?i=bash,js,py,mysql,ts,linux,github,vscode,redhat,cpp,arch)](https://skillicons.dev)  
 
