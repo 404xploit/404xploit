@@ -47,6 +47,7 @@ Driven by curiosity and precision, I help platforms improve resilience through r
 
 ---
 
+<img src="https://tryhackme-badges.s3.amazonaws.com/404xploit.png" alt="Your Image Badge" />
 
 ## 🎓 Skills & Technologies
 
