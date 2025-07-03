@@ -56,7 +56,7 @@ Driven by curiosity and precision, I help platforms improve resilience through r
 
 ---
 
-![snake gif](https://raw.githubusercontent.com/404xploit/404xploit/1455bd83b218bd08a50ab4f7e980b958756db31c/github-snake-dark.svg)
+![snake gif](https://raw.githubusercontent.com/404xploit/404xploit/2d8b93ea398ba00b3931f9722b56b867e73f6d3f/dist/github-contribution-grid-snake-dark.svg)
 
 ---
 ## 📫 Let's Connect
