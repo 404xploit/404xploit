@@ -2,27 +2,32 @@ name: Generate Snake
 
 on:
   schedule:
-    - cron: "0 0 * * *"  # Roda diariamente à meia-noite
-  workflow_dispatch:  # Permite rodar manualmente também
+    - cron: "0 0 * * *"
+  workflow_dispatch:
 
 jobs:
   generate:
     runs-on: ubuntu-latest
     steps:
-      - name: Checkout do repositório
-        uses: actions/checkout@v3
-
-      - name: Gerar o Snake SVG
-        uses: Platane/snk@v3
+      - name: Checkout do código
+        uses: actions/checkout@v4
         with:
-          github_user_name: 404xploit
-          outputs: |
-            dist/github-contribution-grid-snake.svg
+          fetch-depth: 0  
 
-      - name: Commit e push do resultado
-        uses: EndBug/add-and-commit@v9
-        with:
-          author_name: github-actions
-          author_email: github-actions@github.com
-          message: "gerando snake.svg"
-          add: "dist/github-contribution-grid-snake.svg"
+ 
+
+      - name: Configura usuário git
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+
+      - name: Puxa as últimas mudanças do main
+        run: git pull --rebase origin main
+
+      - name: Adiciona e commita arquivos gerados
+        run: |
+          git add .
+          git commit -m "Atualiza snake" || echo "Nada para commitar"
+
+      - name: Faz push das alterações
+        run: git push origin main
