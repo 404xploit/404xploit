@@ -2,32 +2,25 @@ name: Generate Snake
 
 on:
   schedule:
-    - cron: "0 0 * * *"
+    - cron: "0 0 * * *" # Atualiza todo dia à meia-noite UTC
   workflow_dispatch:
 
 jobs:
   generate:
     runs-on: ubuntu-latest
     steps:
-      - name: Checkout do código
+      - name: Checkout
         uses: actions/checkout@v4
+      - name: Generate snake.svg
+        uses: Platane/snk@v3
         with:
-          fetch-depth: 0  
-
- 
-
-      - name: Configura usuário git
-        run: |
-          git config user.name "github-actions[bot]"
-          git config user.email "github-actions[bot]@users.noreply.github.com"
-
-      - name: Puxa as últimas mudanças do main
-        run: git pull --rebase origin main
-
-      - name: Adiciona e commita arquivos gerados
-        run: |
-          git add .
-          git commit -m "Atualiza snake" || echo "Nada para commitar"
-
-      - name: Faz push das alterações
-        run: git push origin main
+          github_user_name: 404xploit
+          outputs: |
+            dist/github-contribution-grid-snake.svg
+      - name: Commit & Push
+        uses: EndBug/add-and-commit@v9
+        with:
+          author_name: github-actions
+          author_email: github-actions@github.com
+          message: "Generate contribution graph snake.svg"
+          add: "dist/github-contribution-grid-snake.svg"
