@@ -17,6 +17,9 @@ jobs:
           github_user_name: 404xploit
           outputs: |
             dist/github-contribution-grid-snake.svg
+          color_snake: "#00FF00"
+          color_dots: "#282828"
+          color_bg: "#181818"
       - name: Commit & Push
         uses: EndBug/add-and-commit@v9
         with:
