@@ -2,27 +2,28 @@ name: Generate Snake
 
 on:
   schedule:
-    - cron: "0 0 * * *" # Atualiza todo dia à meia-noite UTC
+    - cron: "0 0 * * *"  # Executa todo dia à meia-noite UTC
   workflow_dispatch:
 
 jobs:
   generate:
     runs-on: ubuntu-latest
     steps:
-      - name: Checkout
+      - name: Checkout do repositório
         uses: actions/checkout@v4
-      - name: Generate snake.svg
+
+      - name: Gerar snake.svg
         uses: Platane/snk@v3
         with:
           github_user_name: 404xploit
           outputs: |
             dist/github-contribution-grid-snake.svg
-          color_snake: "#820d8c" 
-          color_dots: "#444c56,#0e4429,#006d32,#26a641,#39d353"
-          color_bg: "#0d1117"
-          hide_color_bg: false  
+          color_snake: "#39d353"  # Cor verde neon da cobrinha
+          color_dots: "#161b22,#0e4429,#006d32,#26a641,#39d353"  # Paleta Dark GitHub
+          color_bg: "#0d1117"  # Fundo igual ao Dark Mode do GitHub
+          hide_color_bg: false  # Garante que o fundo seja incluído no SVG
 
-      - name: Commit & Push
+      - name: Commit & Push do SVG gerado
         uses: EndBug/add-and-commit@v9
         with:
           author_name: github-actions
